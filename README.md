@@ -15,7 +15,6 @@
 
 ## 🖼️ Screenshots
 
-> _Add your screenshots here_
 
 | Streamlit Dashboard | Wafer Heatmap |
 <img width="1600" height="764" alt="WhatsApp Image 2026-04-24 at 12 22 20 PM" src="https://github.com/user-attachments/assets/1d9933d3-18e2-4226-abe2-6db3b37b395f" />
